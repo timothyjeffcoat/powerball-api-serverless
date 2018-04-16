@@ -1,2 +1,2 @@
-# PowerBall API AWS Serverless
+# PowerBall Scheduled AWS Lambda
 Scheduled AWS Lambda to update Powerball drawings information
