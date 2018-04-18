@@ -1,0 +1,12 @@
+{
+  "name": "powerball-scheduled-lambda",
+  "version": "1.0.0",
+  "description": "Powerball scheduled Lambda",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.175.0",
+    "mysql": "^2.15.0",
+    "simple-ssh": "^1.0.0"
+  }
+}
